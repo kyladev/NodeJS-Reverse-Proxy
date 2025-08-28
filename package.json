@@ -1,5 +1,5 @@
 {
-	"name": "NodeJS-Reverse-Proxy-8080-443",
+	"name": "NodeJS-Reverse-Proxy",
 	"version": "2.3.0",
 	"private": true,
 	"description": "A basic reverse proxy for port 8080 and 443.",
