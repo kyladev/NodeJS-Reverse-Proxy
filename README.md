@@ -1,4 +1,4 @@
-# NodeJS-Reverse-Proxy-8080-443
+# NodeJS-Reverse-Proxy
 A basic NodeJS reverse proxy, designed for during hosting a proxy.
 
 example usage (main server on port 8080, listening to the outside on 443):
